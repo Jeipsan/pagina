@@ -8,7 +8,7 @@ const FECHA_INICIO = new Date(2026, 5, 17, 0, 0, 0);
 // ☁️ Base de datos compartida (Firebase Realtime Database) para las actividades.
 // Pegá acá la URL de tu base, sin barra final. Ejemplo: "https://mi-regalo-default-rtdb.firebaseio.com"
 // Si queda vacía, las actividades se guardan solo en este dispositivo (localStorage).
-const BACKEND_URL = "";
+const BACKEND_URL = "https://pagin-ce74a-default-rtdb.firebaseio.com";
 
 // 💌 Mensajes de las tarjetas de Inicio
 const MENSAJES = [
